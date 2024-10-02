@@ -9,7 +9,7 @@ proyectos y mis intereses.
 * Nombre: Diego Araujo Ortega
 * Ocupación: Estudiante
 * Lugar de residencia: Ecuador
-* Sitio web: https://DiegoA00.github.io
+* Sitio web: [https://DiegoA00.github.io](https://diegoa00.github.io/DiegoA00/)
 ## Proyectos
 ### Aplicación de Contactos
 - **Tecnologías**: Java
