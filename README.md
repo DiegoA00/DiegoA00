@@ -12,12 +12,22 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 * Lugar de residencia: Ecuador
 * [Curriculum](https://diegoa00.github.io/curriculum/)
 ## :hammer_and_wrench: Lenguajes y Tecnologías:
-* Python
-* HTML5
-* CSS3
-* JavaScript
-* Git
-* MySQL
+Lenguajes
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+Desarrollo Front-End
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+Bases de datos
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+Tecnologías
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 ## Proyectos
 ### [Tic Tac Toe](https://github.com/vicbguti-espol/SmartTicTacToe)
 Proyecto de Estructras de Datos.
