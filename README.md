@@ -69,10 +69,6 @@ Juego de tres en raya usando Java y Scenebuilder.
 
 | Repositorio | Descripción |
 | ----------- | ----------- |
-| [Tic Tac Toe](https://github.com/vicbguti-espol/SmartTicTacToe) | Proyecto de Estructras de Datos. |
-
-| Repositorio | Descripción |
-| ----------- | ----------- |
 | [![Tic Tac Toe](https://github-readme-stats.vercel.app/api/pin/?username=vicbguti-espol&repo=SmartTicTacToe&theme=dark)](https://github.com/vicbguti-espol/SmartTicTacToe) | Proyecto de Estructras de Datos. <br> Juego de tres en raya usando Java y Scenebuilder. <br><br> **Tecnologías adicionales**: Scenebuilder |
 
 
