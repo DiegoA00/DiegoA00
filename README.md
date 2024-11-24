@@ -66,6 +66,11 @@ Juego de tres en raya usando Java y Scenebuilder.
 **Tecnologías adicionales**: Scenebuilder -->
 
 ### Smart Tic Tac Toe
+
+| Repositorio | Descripción |
+| ----------- | ----------- |
+| [Tic Tac Toe](https://github.com/vicbguti-espol/SmartTicTacToe) | Proyecto de Estructras de Datos. |
+
 | Repositorio | Descripción |
 | ----------- | ----------- |
 | [![Tic Tac Toe](https://github-readme-stats.vercel.app/api/pin/?username=vicbguti-espol&repo=SmartTicTacToe&theme=dark)](https://github.com/vicbguti-espol/SmartTicTacToe) | Proyecto de Estructras de Datos. <br> Juego de tres en raya usando Java y Scenebuilder. <br><br> **Tecnologías adicionales**: Scenebuilder |
@@ -80,6 +85,7 @@ Juego de battleship usando Assembly y un emulador del 8086.
 [![Battleship](https://github-readme-stats.vercel.app/api/pin/?username=diegoa00&repo=Battleship-Assembly&theme=dark)](https://github.com/DiegoA00/Battleship-Assembly)  -->
 
 ### Battleship
+
 | Repositorio | Descripción |
 | ----------- | ----------- |
 | [![Battleship](https://github-readme-stats.vercel.app/api/pin/?username=diegoa00&repo=Battleship-Assembly&theme=dark)](https://github.com/DiegoA00/Battleship-Assembly) | Proyecto de Organización de Computadoras. <br> Juego de battleship usando Assembly y un emulador del 8086. <!-- <br><br> **Tecnologías adicionales**: Scenebuilder --> |
@@ -98,6 +104,7 @@ Landing page para una tienda de motos usando HTML, CSS y JavaScript.
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;  -->
 
 ### Landing page
+
 | Repositorio | Descripción |
 | ----------- | ----------- |
 | [![Landing page](https://github-readme-stats.vercel.app/api/pin/?username=diegoa00&repo=landing&theme=dark)](https://github.com/diegoa00/landing) | Proyecto de Desarrollo de Aplicaciones Web y Móvil. <br> Landing page para una tienda de motos usando HTML, CSS y JavaScript. <br><br> **Tecnologías adicionales**: ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp; |
