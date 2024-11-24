@@ -65,9 +65,10 @@ Juego de tres en raya usando Java y Scenebuilder.
 
 **Tecnologías adicionales**: Scenebuilder -->
 
-| Tic Tac Toe | Repositorio |
+### Smart Tic Tac Toe
+| Repositorio | Descripción |
 | ----------- | ----------- |
-| Proyecto de Estructras de Datos. <br> Juego de tres en raya usando Java y Scenebuilder. | [![Tic Tac Toe](https://github-readme-stats.vercel.app/api/pin/?username=vicbguti-espol&repo=SmartTicTacToe&theme=dark)](https://github.com/vicbguti-espol/SmartTicTacToe) <br> **Tecnologías adicionales**: Scenebuilder |
+| [![Tic Tac Toe](https://github-readme-stats.vercel.app/api/pin/?username=vicbguti-espol&repo=SmartTicTacToe&theme=dark)](https://github.com/vicbguti-espol/SmartTicTacToe) | Proyecto de Estructras de Datos. <br> Juego de tres en raya usando Java y Scenebuilder. <br><br> **Tecnologías adicionales**: Scenebuilder |
 
 
 
@@ -78,9 +79,10 @@ Juego de battleship usando Assembly y un emulador del 8086.
 
 [![Battleship](https://github-readme-stats.vercel.app/api/pin/?username=diegoa00&repo=Battleship-Assembly&theme=dark)](https://github.com/DiegoA00/Battleship-Assembly)  -->
 
-| Battleship | Repositorio |
+### Battleship
+| Repositorio | Descripción |
 | ----------- | ----------- |
-| Proyecto de Organización de Computadoras. <br> Juego de battleship usando Assembly y un emulador del 8086. | [![Battleship](https://github-readme-stats.vercel.app/api/pin/?username=diegoa00&repo=Battleship-Assembly&theme=dark)](https://github.com/DiegoA00/Battleship-Assembly) <!-- <br> **Tecnologías adicionales**: Scenebuilder --> |
+| [![Battleship](https://github-readme-stats.vercel.app/api/pin/?username=diegoa00&repo=Battleship-Assembly&theme=dark)](https://github.com/DiegoA00/Battleship-Assembly) | Proyecto de Organización de Computadoras. <br> Juego de battleship usando Assembly y un emulador del 8086. <!-- <br><br> **Tecnologías adicionales**: Scenebuilder --> |
 
 
 
@@ -95,9 +97,10 @@ Landing page para una tienda de motos usando HTML, CSS y JavaScript.
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;  -->
 
-| Landing page | Repositorio |
+### Landing page
+| Repositorio | Descripción |
 | ----------- | ----------- |
-| Proyecto de Desarrollo de Aplicaciones Web y Móvil. <br> Landing page para una tienda de motos usando HTML, CSS y JavaScript. | [![Landing page](https://github-readme-stats.vercel.app/api/pin/?username=diegoa00&repo=landing&theme=dark)](https://github.com/diegoa00/landing) <br> **Tecnologías adicionales**: ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp; |
+| [![Landing page](https://github-readme-stats.vercel.app/api/pin/?username=diegoa00&repo=landing&theme=dark)](https://github.com/diegoa00/landing) | Proyecto de Desarrollo de Aplicaciones Web y Móvil. <br> Landing page para una tienda de motos usando HTML, CSS y JavaScript. <br><br> **Tecnologías adicionales**: ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp; |
 
 <!-- https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW1jeWh5M3F6aW55MDFjZ2pxMjR5Z3RudnJycXEzdjIzeWw5c3lsOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IqgySmxEgP0rs40ZMB/giphy.gif -->
 ## Conéctate conmigo
