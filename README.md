@@ -11,7 +11,7 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 * Ocupación: Estudiante
 * Lugar de residencia: Ecuador
 * [Curriculum](https://diegoa00.github.io/curriculum/)
-## :hammer_and_wrench: Lenguajes y Tecnologías:
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Lenguajes y Tecnologías:
 Lenguajes
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -23,13 +23,14 @@ Desarrollo Front-End
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-Despliegue
+Cloud Hosting
 
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
 Bases de datos
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 Tecnologías
 
