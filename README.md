@@ -1,4 +1,7 @@
 # Diego Araujo Ortega
+
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=790b7611nquk185mcobk2fu9fvi1anrcu6es02rxnqgmp21r&ep=v1_stickers_search&rid=giphy.gif&ct=s">
+
 Soy estudiante de Ingeniería en Ciencias de la Computación en la ESPOL, apasionado por las nuevas herramientas y tecnologías. Actualmente, me encuentro profundizando en tecnologías que forman la base de la creación de aplicaciones y sistemas modernos, lo que me permite adquirir una perspectiva integral en el desarrollo de soluciones digitales.
 
 Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis proyectos y mis intereses.
@@ -51,6 +54,9 @@ Juego de tres en raya usando Java y Scenebuilder.
 Proyecto de Organización de Computadoras.
 Juego de battleship usando Assembly y un emulador del 8086.
 - **Tecnologías**: Battleship
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoa00&layout=compact&theme=dark)
+
 ## Intereses
 * Ciberseguridad
 * Ciencia de Datos
