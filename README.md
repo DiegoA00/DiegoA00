@@ -107,6 +107,7 @@ Landing page para una tienda de motos usando HTML, CSS y JavaScript.
 
 <!-- https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW1jeWh5M3F6aW55MDFjZ2pxMjR5Z3RudnJycXEzdjIzeWw5c3lsOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IqgySmxEgP0rs40ZMB/giphy.gif -->
 ## Conéctate conmigo
+[![Correo](https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white&color=black)](mailto:dienarau@espol.edu.ec)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=black)](https://www.linkedin.com/in/diego-araujo-ortega)
 
 <!-- ![Lenguajes utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoa00&layout=compact&size_weight=0.2&count_weight=0.8&theme=dark&langs_count=6) -->
