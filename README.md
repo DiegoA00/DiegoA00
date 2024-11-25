@@ -28,7 +28,7 @@ Este es mi sitio personal, donde podrás encontrar información sobre mí, los l
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHE3dnJoaTJnbTAwa2JwMGl2OHF0bXRqdDFpc2JjZTdkM3Uxd2toYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100" alt="Desarrollo de Software"> **Desarrollo de Software**
 
 <!-- <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> Lenguajes y Tecnologías:
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> Lenguajes y Tecnologías
 - **Lenguajes**
 
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
