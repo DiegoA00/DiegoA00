@@ -13,7 +13,7 @@ Este es mi sitio personal, donde podrás encontrar información sobre mí, los l
 * [Áreas de interes](#áreas-de-interés)
 * [Lenguajes y tecnologías](#-lenguajes-y-tecnologías)
 * [Proyectos](#proyectos)
-* [Conecta conmigo](#conéctate-conmigo)
+* [Conéctate conmigo](#conéctate-conmigo)
 
 ## Información personal
 * **Nombre**: Diego Araujo Ortega
